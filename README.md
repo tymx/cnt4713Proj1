@@ -3,7 +3,7 @@ This is Project 1 submission for CNT 4713.
 
 Compile Instructions:
 
-First instruction after downloading and opening the command prompt in the location of where stored Main.java:
+First instruction after downloading and opening the command prompt in the location of where Main.java is stored:
 
 javac Main.java
 
